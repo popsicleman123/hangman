@@ -1,5 +1,5 @@
 import random
-hangman_words = open("C:\\Users\\Krith\\Desktop\\files_testing\\hangman.txt", "r")
+hangman_words = open("/home/popsicleman123/hangman.txt", "r")
 remaining_chances = 6
 hangman_words_list = []
 word = []
